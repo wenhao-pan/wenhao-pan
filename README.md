@@ -1,8 +1,8 @@
 # Wenhao Pan（潘文豪）
 
-I am interested in history, digital humanities, archival research, and the application of OCR technologies to Chinese historical documents.
+I am interested in law, legal history, digital humanities, and the application of OCR technology to the study of Chinese historical documents.
 
-我关注历史学、数字人文、档案整理，以及 OCR 技术在中文历史文献研究中的应用。
+我关注法学、法律史研究、数字人文，以及 OCR 技术在中文历史文献研究中的应用。
 
 ## Current Project
 
@@ -22,26 +22,29 @@ Main features:
 - TXT and JSON export
 - Native macOS installation package
 
-> The source repository is currently private while licensing and public-release materials are being reviewed.
+> The source repository is currently private. Public project documentation will be added later.
+
+## Areas of Interest
+
+- Law and legal history
+- Chinese historical documents
+- Digital humanities
+- Historical and archival research
+- Technology-assisted document research
+- Handwritten and vertical-text recognition
 
 ## Skills
 
+- Legal and academic research
+- Historical-document analysis
+- Academic writing
 - Python
 - PaddleOCR / PaddlePaddle
 - OCR workflow design
 - Historical-document digitization
 - macOS application packaging
 - Git and GitHub
-- Academic and archival research
-
-## Current Interests
-
-- Chinese historical documents
-- Digital humanities
-- Handwritten-text recognition
-- Vertical-text OCR
-- Human-in-the-loop document correction
 
 ## Contact
 
-For research or project collaboration, please contact me through GitHub.
+For academic, legal-research, or project collaboration, please contact me through GitHub.
