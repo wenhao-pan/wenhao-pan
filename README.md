@@ -22,7 +22,7 @@ Main features:
 - TXT and JSON export
 - Native macOS installation package
 
-> The source repository is currently private. Public project documentation will be added later.
+> > [View the public project showcase](https://github.com/wenhao-pan/wenjian-ancient-ocr-showcase). The source repository remains private.
 
 ## Areas of Interest
 
